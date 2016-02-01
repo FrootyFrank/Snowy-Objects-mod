@@ -1,0 +1,25 @@
+﻿{
+    "Big Snow Tree": {
+		"model": "Big Tree",
+		"type": "deco",
+		"price": 50.0,
+		"gridSubdivision": 5.0,
+		"snapCenter": false
+	}
+
+    "Snow Rock": {
+		"model": "Rock",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+
+    "Small Snow Tree": {
+		"model": "Small Tree",
+		"type": "deco",
+		"price": 25.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+}
