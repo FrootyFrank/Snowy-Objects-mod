@@ -1,166 +1,94 @@
-[16-02-01 18:36:45] Info: Compiling Your First Mod to bin/build-160201183645142.dll...
-[16-02-01 18:36:45] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 18:36:45] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 18:36:45] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 18:36:45] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 18:36:45] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 18:36:45] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 18:36:45] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 18:36:45] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 18:36:45] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 18:36:45] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 18:36:45] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 18:36:49] Info: Loaded build-160201183645142, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 18:36:49] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 18:46:56] Info: Loaded build-160201183645142, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 18:46:56] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 18:56:12] Info: Compiling Your First Mod to bin/build-160201185612226.dll...
-[16-02-01 18:56:12] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 18:56:12] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 18:56:12] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 18:56:12] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 18:56:12] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 18:56:12] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 18:56:12] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 18:56:12] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 18:56:12] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 18:56:12] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 18:56:12] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 18:56:19] Info: Loaded build-160201185612226, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 18:56:19] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 18:57:46] Info: Compiling Your First Mod to bin/build-160201185746119.dll...
-[16-02-01 18:57:46] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 18:57:46] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 18:57:46] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 18:57:46] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 18:57:46] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 18:57:46] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 18:57:46] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 18:57:46] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 18:57:46] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 18:57:46] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 18:57:46] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 18:57:52] Info: Loaded build-160201185746119, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 18:57:52] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 19:16:10] Info: Compiling Your First Mod to bin/build-160201191610768.dll...
-[16-02-01 19:16:10] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 19:16:10] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 19:16:10] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 19:16:10] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 19:16:10] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 19:16:10] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 19:16:10] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 19:16:10] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 19:16:10] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 19:16:10] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 19:16:10] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 19:16:14] Info: Loaded build-160201191610768, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:16:14] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 19:21:19] Info: Compiling Your First Mod to bin/build-160201192119154.dll...
-[16-02-01 19:21:19] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 19:21:19] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 19:21:19] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 19:21:19] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 19:21:19] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 19:21:19] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 19:21:19] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 19:21:19] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 19:21:19] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 19:21:19] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 19:21:19] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 19:21:22] Info: Loaded build-160201192119154, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:21:22] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 19:24:54] Info: Compiling Your First Mod to bin/build-160201192454962.dll...
-[16-02-01 19:24:54] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 19:24:54] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 19:24:54] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 19:24:54] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 19:24:54] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 19:24:54] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 19:24:54] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 19:24:54] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 19:24:54] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 19:24:54] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 19:24:54] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 19:24:58] Info: Loaded build-160201192454962, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:24:58] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 19:48:45] Info: Compiling Your First Mod to bin/build-160201194845669.dll...
-[16-02-01 19:48:45] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 19:48:45] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 19:48:45] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 19:48:45] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 19:48:45] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 19:48:45] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 19:48:45] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 19:48:45] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 19:48:45] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 19:48:45] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 19:48:45] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 19:48:50] Info: Loaded build-160201194845669, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:48:50] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 19:50:30] Info: Compiling Your First Mod to bin/build-160201195030301.dll...
-[16-02-01 19:50:30] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 19:50:30] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 19:50:30] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 19:50:30] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 19:50:30] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 19:50:30] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 19:50:30] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 19:50:30] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 19:50:30] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 19:50:30] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 19:50:30] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 19:50:34] Info: Loaded build-160201195030301, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:50:34] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 19:53:15] Info: Compiling Your First Mod to bin/build-160201195315980.dll...
-[16-02-01 19:53:15] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 19:53:15] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 19:53:15] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 19:53:15] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 19:53:15] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 19:53:15] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 19:53:15] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 19:53:15] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 19:53:15] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 19:53:15] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 19:53:15] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 19:53:19] Info: Loaded build-160201195315980, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:53:19] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-System.InvalidCastException: Cannot cast from source type to destination type.
+[16-02-06 17:24:32] Info: Compiling Snowy Objects Mod to bin/build-160206172432050.dll...
+[16-02-06 17:24:32] Info: Compiling from `Custom Scenery.csproj`.
+[16-02-06 17:24:32] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-06 17:24:32] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-06 17:24:32] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-06 17:24:32] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-06 17:24:32] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-06 17:24:32] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-06 17:24:32] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-06 17:24:32] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-06 17:24:32] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-06 17:24:32] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/snowy objects`.
+[16-02-06 17:24:40] Info: Loaded build-160206172432050, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-06 17:24:40] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-02-06 17:27:57] Info: Compiling Snowy Objects Mod to bin/build-160206172757278.dll...
+[16-02-06 17:27:57] Info: Compiling from `Custom Scenery.csproj`.
+[16-02-06 17:27:57] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-06 17:27:57] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-06 17:27:57] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-06 17:27:57] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-06 17:27:57] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-06 17:27:57] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-06 17:27:57] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-06 17:27:57] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-06 17:27:57] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-06 17:27:57] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/snowy objects`.
+[16-02-06 17:28:01] Info: Loaded build-160206172757278, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-06 17:28:01] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-02-06 17:31:48] Info: Compiling Snowy Objects Mod to bin/build-160206173148920.dll...
+[16-02-06 17:31:48] Info: Compiling from `Custom Scenery.csproj`.
+[16-02-06 17:31:48] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-06 17:31:48] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-06 17:31:48] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-06 17:31:48] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-06 17:31:48] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-06 17:31:48] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-06 17:31:48] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-06 17:31:48] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-06 17:31:48] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-06 17:31:48] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/snowy objects`.
+[16-02-06 17:31:53] Info: Loaded build-160206173148920, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-06 17:31:53] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-02-06 17:40:20] Info: Loaded build-160206173148920, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-06 17:40:20] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-02-06 18:18:49] Info: Loaded build-160206173148920, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-06 18:18:49] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+System.ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original) [0x00000] in <filename unknown>:0 
+  at Custom_Scenery.Decorators.TypeDecorator.Decorate (System.Collections.Generic.Dictionary`2 options, UnityEngine.AssetBundle bundle) [0x00000] in <filename unknown>:0 
   at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
-[16-02-01 19:54:12] Info: Compiling Your First Mod to bin/build-160201195412354.dll...
-[16-02-01 19:54:12] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 19:54:12] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 19:54:12] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 19:54:12] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 19:54:12] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 19:54:12] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 19:54:12] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 19:54:12] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 19:54:12] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 19:54:12] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 19:54:12] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 19:54:15] Info: Loaded build-160201195412354, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:54:15] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-System.InvalidCastException: Cannot cast from source type to destination type.
+System.ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original) [0x00000] in <filename unknown>:0 
+  at Custom_Scenery.Decorators.TypeDecorator.Decorate (System.Collections.Generic.Dictionary`2 options, UnityEngine.AssetBundle bundle) [0x00000] in <filename unknown>:0 
   at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
-[16-02-01 19:56:08] Info: Compiling Your First Mod to bin/build-160201195608066.dll...
-[16-02-01 19:56:08] Info: Compiling from `Custom Scenery.csproj`.
-[16-02-01 19:56:08] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
-[16-02-01 19:56:08] Info: Resolved assembly reference `System` to `System.dll`
-[16-02-01 19:56:08] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-02-01 19:56:08] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-02-01 19:56:08] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-02-01 19:56:08] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-02-01 19:56:08] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-02-01 19:56:08] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
-[16-02-01 19:56:08] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
-[16-02-01 19:56:08] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Snow trees`.
-[16-02-01 19:56:11] Info: Loaded build-160201195608066, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:56:11] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 19:57:56] Info: Loaded build-160201195608066, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:57:56] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 19:59:31] Info: Loaded build-160201195608066, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 19:59:31] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
-[16-02-01 20:00:36] Info: Loaded build-160201195608066, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
-[16-02-01 20:00:36] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-02-06 18:23:10] Info: Compiling Snowy Objects Mod to bin/build-160206182310903.dll...
+[16-02-06 18:23:10] Info: Compiling from `Custom Scenery.csproj`.
+[16-02-06 18:23:10] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-06 18:23:10] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-06 18:23:10] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-06 18:23:10] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-06 18:23:10] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-06 18:23:10] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-06 18:23:10] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-06 18:23:10] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-06 18:23:10] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-06 18:23:10] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/snowy objects`.
+[16-02-06 18:23:15] Info: Loaded build-160206182310903, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-06 18:23:15] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+System.ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original) [0x00000] in <filename unknown>:0 
+  at Custom_Scenery.Decorators.TypeDecorator.Decorate (System.Collections.Generic.Dictionary`2 options, UnityEngine.AssetBundle bundle) [0x00000] in <filename unknown>:0 
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original) [0x00000] in <filename unknown>:0 
+  at Custom_Scenery.Decorators.TypeDecorator.Decorate (System.Collections.Generic.Dictionary`2 options, UnityEngine.AssetBundle bundle) [0x00000] in <filename unknown>:0 
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+[16-02-06 18:24:47] Info: Compiling Snowy Objects Mod to bin/build-160206182447333.dll...
+[16-02-06 18:24:47] Info: Compiling from `Custom Scenery.csproj`.
+[16-02-06 18:24:47] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-06 18:24:47] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-06 18:24:47] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-06 18:24:47] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-06 18:24:47] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-06 18:24:47] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-06 18:24:47] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-06 18:24:47] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-06 18:24:47] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-06 18:24:47] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/snowy objects`.
+[16-02-06 18:24:57] Info: Loaded build-160206182447333, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-06 18:24:57] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.

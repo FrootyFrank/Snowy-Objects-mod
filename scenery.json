@@ -1,25 +1,65 @@
 ﻿{
-    "Big Snow Tree": {
-		"model": "Big Tree",
+    "fir snowy": {
+		"model": "fir",
 		"type": "deco",
 		"price": 50.0,
-		"gridSubdivision": 5.0,
+		"gridSubdivision": 2.0,
 		"snapCenter": false
-	}
-
-    "Snow Rock": {
-		"model": "Rock",
+	},
+    "fir 2 snowy": {
+		"model": "fir 2",
+		"type": "deco",
+		"price": 50.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	},
+    "fir small snowy": {
+		"model": "small fir",
+		"type": "deco",
+		"price": 30.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	},
+    "fir 2 small snowy": {
+		"model": "small fir 2",
+		"type": "deco",
+		"price": 30.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	},
+    "tree snowy": {
+		"model": "tree",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
 		"snapCenter": false
-	}
-
-    "Small Snow Tree": {
-		"model": "Small Tree",
+	},
+    "tree 2 snowy": {
+		"model": "tree 2",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	},
+    "rock small snowy": {
+		"model": "rock small",
 		"type": "deco",
 		"price": 25.0,
 		"gridSubdivision": 2.0,
 		"snapCenter": false
-	}
+	},
+    "rock big snowy": {
+		"model": "rock big",
+		"type": "deco",
+		"price": 25.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	},
+    "snowman": {
+		"model": "snowman",
+		"type": "deco",
+		"price": 100.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	},
 }

@@ -1,7 +1,7 @@
 {
     "BaseDir": "",
-    "IsDevelopment": false,
-    "Name": "Snowy Objects",
+    "IsDevelopment": true,
+    "Name": "Snowy Objects Mod",
     "Project": "Custom Scenery.csproj",
 	"AssetBundleDir": "assetbundle"
 }
